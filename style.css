@@ -1,5 +1,7 @@
 body {
-    background-image: url("img/background.png");
+    background-image: url("asset/img/background.png");
+    padding: 0;
+    margin: 0;
   }
 .topnav {
     background-color:#C55394;opacity:0.6;
@@ -47,7 +49,7 @@ h1 {
         height: 175px;
         padding: 10px;
        /* border: 1px solid rgb(165, 159, 159);*/
-        background-image: url(img/rainbow.png);
+        background-image: url(asset/img/rainbow.png);
         }
 /*le contenu*/
 .block-white {
